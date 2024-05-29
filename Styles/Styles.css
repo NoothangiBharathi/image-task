@@ -1,0 +1,19 @@
+.container{
+    height: 500px;
+    width: 1200px;
+    background-color: aqua;
+}
+.header{
+    height:500px;
+    width: 1200px;
+    text-align: center;
+    background-image: url("../images/Pic1.jpg");
+    background-size: cover;
+    padding-top: 100px;
+ }
+ button{
+    background-color: aqua;
+     padding: 10px;
+    border-radius: 8px;
+    border-color: aqua;
+ }
